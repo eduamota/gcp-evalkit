@@ -1,0 +1,9 @@
+streamlit
+openai
+fastapi
+uvicorn
+requests
+google-cloud-aiplatform
+vertexai
+python-dotenv
+pydantic

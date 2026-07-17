@@ -1,0 +1,5 @@
+fastapi[standard]
+pydantic
+google-cloud-aiplatform[evaluation]
+pandas
+google-auth

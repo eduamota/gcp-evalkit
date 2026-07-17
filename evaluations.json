@@ -1,0 +1,114 @@
+{
+  "12f1d336-2a39-42f3-8993-ffabbead7336": {
+    "status": "failed",
+    "error": "Unsupported dataset type. Must be a `pd.DataFrame`, Python dictionary, valid GCS path with  `jsonl` or `csv` suffix or a valid BigQuery table URI."
+  },
+  "5ddfd529-ed38-4585-9a32-5372345f568b": {
+    "status": "completed",
+    "results": {
+      "row_count": 1,
+      "coherence/mean": NaN,
+      "coherence/std": NaN,
+      "fluency/mean": NaN,
+      "fluency/std": NaN,
+      "response_quality/mean": NaN,
+      "response_quality/std": NaN
+    }
+  },
+  "9d65aa0c-b909-4ff2-9e3a-a8f248da6da9": {
+    "status": "completed",
+    "results": {
+      "row_count": 1,
+      "coherence/mean": NaN,
+      "coherence/std": NaN,
+      "fluency/mean": NaN,
+      "fluency/std": NaN,
+      "response_quality/mean": NaN,
+      "response_quality/std": NaN
+    }
+  },
+  "0a15dc4f-6192-4740-a508-27b981ec693a": {
+    "status": "completed",
+    "results": {
+      "row_count": 1,
+      "coherence/mean": NaN,
+      "coherence/std": NaN,
+      "fluency/mean": NaN,
+      "fluency/std": NaN,
+      "response_quality/mean": NaN,
+      "response_quality/std": NaN
+    }
+  },
+  "39660f5e-ce2d-4cc1-ad46-c5605abbd8a2": {
+    "status": "completed",
+    "results": {
+      "row_count": 1,
+      "coherence/mean": 5.0,
+      "coherence/std": NaN,
+      "fluency/mean": 4.0,
+      "fluency/std": NaN,
+      "response_quality/mean": 5.0,
+      "response_quality/std": NaN
+    }
+  },
+  "6778f68d-27f1-44d0-affd-510019292877": {
+    "status": "completed",
+    "results": {
+      "row_count": 1.0,
+      "coherence/mean": 5.0,
+      "coherence/std": null,
+      "fluency/mean": 5.0,
+      "fluency/std": null,
+      "response_quality/mean": 5.0,
+      "response_quality/std": null
+    }
+  },
+  "35e5bdef-2cbb-43cd-a9fc-ec74a776ac14": {
+    "status": "completed",
+    "results": {
+      "row_count": 1.0,
+      "coherence/mean": 5.0,
+      "coherence/std": null,
+      "fluency/mean": 5.0,
+      "fluency/std": null,
+      "response_quality/mean": 5.0,
+      "response_quality/std": null
+    }
+  },
+  "b2ff3c47-9d14-4974-8362-f7afc2a90ead": {
+    "status": "completed",
+    "results": {
+      "row_count": 1.0,
+      "coherence/mean": 5.0,
+      "coherence/std": null,
+      "fluency/mean": 5.0,
+      "fluency/std": null,
+      "response_quality/mean": 5.0,
+      "response_quality/std": null
+    }
+  },
+  "c8ea5e6d-4495-4379-abb5-2cdd9a2f5cd7": {
+    "status": "completed",
+    "results": {
+      "row_count": 1.0,
+      "coherence/mean": 5.0,
+      "coherence/std": null,
+      "fluency/mean": 5.0,
+      "fluency/std": null,
+      "response_quality/mean": 3.0,
+      "response_quality/std": null
+    }
+  },
+  "2be2ca45-b578-4e71-b276-75c18e026ab0": {
+    "status": "completed",
+    "results": {
+      "row_count": 1.0,
+      "coherence/mean": 5.0,
+      "coherence/std": null,
+      "fluency/mean": 5.0,
+      "fluency/std": null,
+      "response_quality/mean": 4.0,
+      "response_quality/std": null
+    }
+  }
+}
